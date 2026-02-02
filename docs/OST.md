@@ -42,7 +42,7 @@ Except as expressly permitted above, you may NOT:
 Where reasonably possible, users must provide attribution in substantially the following form:
 
 ```
-Welcome To Hell OST by [Composer Name(s)]
+[Song Name] from The Welcome To Hell OST
 ```
 
 Failure to provide attribution does not invalidate the License but may result in revocation if done willfully or misleadingly.
@@ -72,7 +72,7 @@ implied.
 ## 8. Contact
 
 For permissions outside the scope of this License, please contact:
-ost@wthrblx.com or znotfireman+wthost@gmail.com
+legal@wthrblx.com or znotfireman+wthost@gmail.com
 
 ## 9. Governing Law
 
